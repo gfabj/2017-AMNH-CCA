@@ -7,3 +7,5 @@ do echo $j;
 done
 done
 
+Astrocom NYC
+AMNH
